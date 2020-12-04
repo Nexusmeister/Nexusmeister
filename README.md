@@ -13,6 +13,8 @@
 <br />
 
 ### Languages & Tools:
+<img width="26px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
+
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
