@@ -13,8 +13,8 @@
 <br />
 
 ### Languages & Tools:
-<img width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
-<img width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" />
+![CSharp][csharpLogo]
+![VisualStudio][vs]
 
 <br/>
 <br/>
@@ -39,3 +39,5 @@
 
 [twitter]: https://twitter.com/skcnex
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
+[csharpLogo]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg
+[vs]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg
