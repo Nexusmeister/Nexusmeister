@@ -8,7 +8,7 @@
 
 ### Currently listening to... 🎧
 
-[![Spotify](https://spotify-now-playing.nexusmeister.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)(https://open.spotify.com/user/xkaltix?si=h_gYbj2sTlamJW9soY9fnQ)
+[![Spotify](https://spotify-now-playing.nexusmeister.vercel.app/api/spotify)](https://open.spotify.com/user/xkaltix?si=h_gYbj2sTlamJW9soY9fnQ)
 
 <br />
 
