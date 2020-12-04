@@ -14,8 +14,9 @@
 
 ### Languages & Tools:
 
-
-
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/skcnex
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
