@@ -13,9 +13,11 @@
 <br />
 
 ### Languages & Tools:
-<img width="26px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
-<img width="26px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" />
-<img width="26px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dot-net.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" />
+<img width="35px" align="left" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/xamarin.svg" />
 
 <br/>
 <br/>
