@@ -39,5 +39,5 @@
 
 [twitter]: https://twitter.com/skcnex
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
-[csharpLogo]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg
+[csharpLogo]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg =25x
 [vs]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg
