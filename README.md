@@ -21,6 +21,7 @@
 
 <br/>
 <br/>
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/2) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
