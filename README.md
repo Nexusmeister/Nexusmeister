@@ -1,8 +1,9 @@
 ## Welcome!
 
 ### Connect with me:
-[<img align="left" alt="Nexusmeister | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Robin Kaltenbach | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
+[<img align="left" alt="Nexusmeister | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Robin Kaltenbach | Xing" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
+[<img align="left" alt="Nexusmeister | Twitch" width="35px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -41,3 +42,4 @@
 
 [twitter]: https://twitter.com/skcnex
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
+[twitch]: https://www.twitch.tv/nexusmeister
