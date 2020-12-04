@@ -10,8 +10,6 @@
 
 [![Spotify](https://spotify-now-playing.nexusmeister.vercel.app/api/spotify)](https://open.spotify.com/user/xkaltix?si=h_gYbj2sTlamJW9soY9fnQ)
 
-<br />
-
 ### Languages & Tools:
 <img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dot-net.svg" />
 <img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
