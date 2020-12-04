@@ -13,9 +13,11 @@
 <br />
 
 ### Languages & Tools:
-<img width="26px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
+<img width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" />
+<img width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" />
 
-
+<br/>
+<br/>
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/2) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
