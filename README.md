@@ -18,5 +18,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+[![Robin's github stats](https://github-readme-stats.vercel.app/api?username=nexusmeister)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/skcnex
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
