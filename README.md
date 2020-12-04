@@ -8,7 +8,7 @@
 
 ### Currently listening to... 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nexusmeister Spotify Playing" width="350" />](https://open.spotify.com/user/xkaltix?si=h_gYbj2sTlamJW9soY9fnQ)
+[<img src="https://spotify-now-playing.nexusmeister.vercel.app/api/spotify-playing" alt="Nexusmeister Spotify Playing" width="350" />](https://open.spotify.com/user/xkaltix?si=h_gYbj2sTlamJW9soY9fnQ)
 
 <br />
 
