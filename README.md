@@ -35,16 +35,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Nexusmeister/Skripte/pull/15) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-2. 💪 Opened PR [#15](https://github.com/Nexusmeister/Skripte/pull/15) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-3. 🎉 Merged PR [#14](https://github.com/Nexusmeister/Skripte/pull/14) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-4. 💪 Opened PR [#14](https://github.com/Nexusmeister/Skripte/pull/14) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-5. ❗️ Opened issue [#1](https://github.com/Nexusmeister/Nexusmeister/issues/1) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-6. 🎉 Merged PR [#2](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/2) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
-7. 💪 Opened PR [#2](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/2) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
-8. 🎉 Merged PR [#1](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/1) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
-9. 💪 Opened PR [#1](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung/pull/1) in [Nexusmeister/dh_kontaktpersonen-nachverfolgung](https://github.com/Nexusmeister/dh_kontaktpersonen-nachverfolgung)
-10. ❗️ Opened issue [#11](https://github.com/Nexusmeister/DotNetTools/issues/11) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+1. 🎉 Merged PR [#7](https://github.com/Nexusmeister/Nexusmeister/pull/7) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+2. 💪 Opened PR [#7](https://github.com/Nexusmeister/Nexusmeister/pull/7) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+3. 🎉 Merged PR [#6](https://github.com/Nexusmeister/Nexusmeister/pull/6) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+4. 💪 Opened PR [#6](https://github.com/Nexusmeister/Nexusmeister/pull/6) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+5. 🎉 Merged PR [#5](https://github.com/Nexusmeister/Nexusmeister/pull/5) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+6. 💪 Opened PR [#5](https://github.com/Nexusmeister/Nexusmeister/pull/5) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+7. ❗️ Opened issue [#4](https://github.com/Nexusmeister/Nexusmeister/issues/4) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+8. ❗️ Opened issue [#3](https://github.com/Nexusmeister/Nexusmeister/issues/3) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+9. 🎉 Merged PR [#2](https://github.com/Nexusmeister/Nexusmeister/pull/2) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+10. ❗️ Closed issue [#1](https://github.com/Nexusmeister/Nexusmeister/issues/1) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
 <!--END_SECTION:activity-->
  
  <br/>
