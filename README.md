@@ -35,16 +35,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Nexusmeister/DotNetTools/pull/15) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-2. ❗️ Closed issue [#13](https://github.com/Nexusmeister/DotNetTools/issues/13) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-3. 💪 Opened PR [#15](https://github.com/Nexusmeister/DotNetTools/pull/15) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-4. ❗️ Opened issue [#14](https://github.com/Nexusmeister/DotNetTools/issues/14) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-5. ❗️ Opened issue [#13](https://github.com/Nexusmeister/DotNetTools/issues/13) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-6. 🎉 Merged PR [#12](https://github.com/Nexusmeister/DotNetTools/pull/12) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-7. 💪 Opened PR [#12](https://github.com/Nexusmeister/DotNetTools/pull/12) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-8. 🎉 Merged PR [#7](https://github.com/Nexusmeister/Nexusmeister/pull/7) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-9. 💪 Opened PR [#7](https://github.com/Nexusmeister/Nexusmeister/pull/7) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-10. 🎉 Merged PR [#6](https://github.com/Nexusmeister/Nexusmeister/pull/6) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+1. 🎉 Merged PR [#16](https://github.com/Nexusmeister/Skripte/pull/16) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+2. 💪 Opened PR [#16](https://github.com/Nexusmeister/Skripte/pull/16) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+3. 🎉 Merged PR [#15](https://github.com/Nexusmeister/DotNetTools/pull/15) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+4. ❗️ Closed issue [#13](https://github.com/Nexusmeister/DotNetTools/issues/13) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+5. 💪 Opened PR [#15](https://github.com/Nexusmeister/DotNetTools/pull/15) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+6. ❗️ Opened issue [#14](https://github.com/Nexusmeister/DotNetTools/issues/14) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+7. ❗️ Opened issue [#13](https://github.com/Nexusmeister/DotNetTools/issues/13) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+8. 🎉 Merged PR [#12](https://github.com/Nexusmeister/DotNetTools/pull/12) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+9. 💪 Opened PR [#12](https://github.com/Nexusmeister/DotNetTools/pull/12) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+10. 🎉 Merged PR [#7](https://github.com/Nexusmeister/Nexusmeister/pull/7) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
 <!--END_SECTION:activity-->
  
  <br/>
