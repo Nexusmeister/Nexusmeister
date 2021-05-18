@@ -52,7 +52,7 @@
 ## GitHub Stats
 [![Robin's github stats](https://github-readme-stats.vercel.app/api?username=nexusmeister&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/skcnex
+[twitter]: https://twitter.com/nexxusmeister
 [xing]: https://www.xing.com/profile/Robin_Kaltenbach3
 [twitch]: https://www.twitch.tv/nexusmeister
 [stackOverflow]: https://stackoverflow.com/users/10840553/robin-kaltenbach
