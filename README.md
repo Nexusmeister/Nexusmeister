@@ -35,16 +35,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/Nexusmeister/EnvCalc/pull/71) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-2. 🎉 Merged PR [#70](https://github.com/Nexusmeister/EnvCalc/pull/70) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-3. 💪 Opened PR [#70](https://github.com/Nexusmeister/EnvCalc/pull/70) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-4. 🎉 Merged PR [#69](https://github.com/Nexusmeister/EnvCalc/pull/69) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-5. 💪 Opened PR [#69](https://github.com/Nexusmeister/EnvCalc/pull/69) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-6. 🎉 Merged PR [#68](https://github.com/Nexusmeister/EnvCalc/pull/68) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-7. 💪 Opened PR [#68](https://github.com/Nexusmeister/EnvCalc/pull/68) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-8. 🎉 Merged PR [#67](https://github.com/Nexusmeister/EnvCalc/pull/67) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-9. 💪 Opened PR [#67](https://github.com/Nexusmeister/EnvCalc/pull/67) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-10. 💪 Opened PR [#63](https://github.com/Nexusmeister/EnvCalc/pull/63) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+1. 🎉 Merged PR [#75](https://github.com/Nexusmeister/EnvCalc/pull/75) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+2. 💪 Opened PR [#75](https://github.com/Nexusmeister/EnvCalc/pull/75) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+3. 🎉 Merged PR [#74](https://github.com/Nexusmeister/EnvCalc/pull/74) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+4. 💪 Opened PR [#74](https://github.com/Nexusmeister/EnvCalc/pull/74) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+5. 🎉 Merged PR [#73](https://github.com/Nexusmeister/EnvCalc/pull/73) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+6. 💪 Opened PR [#73](https://github.com/Nexusmeister/EnvCalc/pull/73) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+7. 🎉 Merged PR [#72](https://github.com/Nexusmeister/EnvCalc/pull/72) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+8. 💪 Opened PR [#72](https://github.com/Nexusmeister/EnvCalc/pull/72) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+9. 🎉 Merged PR [#71](https://github.com/Nexusmeister/EnvCalc/pull/71) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+10. 💪 Opened PR [#71](https://github.com/Nexusmeister/EnvCalc/pull/71) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
 <!--END_SECTION:activity-->
  
  <br/>
