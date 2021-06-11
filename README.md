@@ -35,16 +35,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#83](https://github.com/Nexusmeister/EnvCalc/issues/83) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-2. ❗️ Opened issue [#82](https://github.com/Nexusmeister/EnvCalc/issues/82) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-3. ❗️ Opened issue [#18](https://github.com/Nexusmeister/Skripte/issues/18) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-4. 🎉 Merged PR [#17](https://github.com/Nexusmeister/Skripte/pull/17) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-5. 💪 Opened PR [#17](https://github.com/Nexusmeister/Skripte/pull/17) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-6. 🎉 Merged PR [#79](https://github.com/Nexusmeister/EnvCalc/pull/79) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-7. 💪 Opened PR [#79](https://github.com/Nexusmeister/EnvCalc/pull/79) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-8. 🎉 Merged PR [#76](https://github.com/Nexusmeister/EnvCalc/pull/76) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-9. ❗️ Opened issue [#78](https://github.com/Nexusmeister/EnvCalc/issues/78) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
-10. ❗️ Opened issue [#77](https://github.com/Nexusmeister/EnvCalc/issues/77) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+1. 🎉 Merged PR [#84](https://github.com/Nexusmeister/EnvCalc/pull/84) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+2. 💪 Opened PR [#84](https://github.com/Nexusmeister/EnvCalc/pull/84) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+3. ❗️ Opened issue [#83](https://github.com/Nexusmeister/EnvCalc/issues/83) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+4. ❗️ Opened issue [#82](https://github.com/Nexusmeister/EnvCalc/issues/82) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+5. ❗️ Opened issue [#18](https://github.com/Nexusmeister/Skripte/issues/18) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+6. 🎉 Merged PR [#17](https://github.com/Nexusmeister/Skripte/pull/17) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+7. 💪 Opened PR [#17](https://github.com/Nexusmeister/Skripte/pull/17) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+8. 🎉 Merged PR [#79](https://github.com/Nexusmeister/EnvCalc/pull/79) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+9. 💪 Opened PR [#79](https://github.com/Nexusmeister/EnvCalc/pull/79) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+10. 🎉 Merged PR [#76](https://github.com/Nexusmeister/EnvCalc/pull/76) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
 <!--END_SECTION:activity-->
  
  <br/>
