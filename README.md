@@ -36,9 +36,9 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-2. 🎉 Merged PR [#19](https://github.com/Nexusmeister/Skripte/pull/19) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-3. 💪 Opened PR [#19](https://github.com/Nexusmeister/Skripte/pull/19) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-4. 💪 Opened PR [#106](https://github.com/Nexusmeister/EnvCalc/pull/106) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+2. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+3. 🎉 Merged PR [#19](https://github.com/Nexusmeister/Skripte/pull/19) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+4. 💪 Opened PR [#19](https://github.com/Nexusmeister/Skripte/pull/19) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
 5. 🎉 Merged PR [#105](https://github.com/Nexusmeister/EnvCalc/pull/105) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
 6. 💪 Opened PR [#105](https://github.com/Nexusmeister/EnvCalc/pull/105) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
 7. 🎉 Merged PR [#104](https://github.com/Nexusmeister/EnvCalc/pull/104) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
