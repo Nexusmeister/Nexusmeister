@@ -36,14 +36,14 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-2. 🎉 Merged PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-3. 💪 Opened PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-4. ❗️ Closed issue [#9](https://github.com/Nexusmeister/DotNetTools/issues/9) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-5. 🎉 Merged PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-6. 💪 Opened PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-7. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+2. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+3. 🎉 Merged PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+4. 💪 Opened PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+5. ❗️ Closed issue [#9](https://github.com/Nexusmeister/DotNetTools/issues/9) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+6. 🎉 Merged PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+7. 💪 Opened PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
 8. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-9. 🎉 Merged PR [#103](https://github.com/Nexusmeister/EnvCalc/pull/103) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
+9. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
 10. 💪 Opened PR [#103](https://github.com/Nexusmeister/EnvCalc/pull/103) in [Nexusmeister/EnvCalc](https://github.com/Nexusmeister/EnvCalc)
 <!--END_SECTION:activity-->
  
