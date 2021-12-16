@@ -37,16 +37,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5216](https://github.com/signalapp/Signal-iOS/issues/5216) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
-2. 🗣 Commented on [#5160](https://github.com/signalapp/Signal-iOS/issues/5160) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
-3. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-4. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+1. 🎉 Merged PR [#9](https://github.com/Nexusmeister/Nexusmeister/pull/9) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+2. 💪 Opened PR [#9](https://github.com/Nexusmeister/Nexusmeister/pull/9) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+3. ❗️ Opened issue [#5216](https://github.com/signalapp/Signal-iOS/issues/5216) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
+4. 🗣 Commented on [#5160](https://github.com/signalapp/Signal-iOS/issues/5160) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
 5. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-6. 🎉 Merged PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-7. 💪 Opened PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
-8. ❗️ Closed issue [#9](https://github.com/Nexusmeister/DotNetTools/issues/9) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-9. 🎉 Merged PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
-10. 💪 Opened PR [#16](https://github.com/Nexusmeister/DotNetTools/pull/16) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
+6. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+7. 🗣 Commented on [#2183](https://github.com/signalapp/Signal-Desktop/issues/2183) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+8. 🎉 Merged PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+9. 💪 Opened PR [#20](https://github.com/Nexusmeister/Skripte/pull/20) in [Nexusmeister/Skripte](https://github.com/Nexusmeister/Skripte)
+10. ❗️ Closed issue [#9](https://github.com/Nexusmeister/DotNetTools/issues/9) in [Nexusmeister/DotNetTools](https://github.com/Nexusmeister/DotNetTools)
 <!--END_SECTION:activity-->
  
  <br/>
