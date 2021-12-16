@@ -15,6 +15,8 @@
 [<img align="left" alt="Nexusmeister | Twitch" width="35px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Robin Kaltenbach | Stack Overflow" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="Nexusmeister | Steam" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
+[<img align="left" alt="Robin Kaltenbach | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedIn]
+
 
 <br />
 
@@ -57,3 +59,4 @@
 [twitch]: https://www.twitch.tv/nexusmeister
 [stackOverflow]: https://stackoverflow.com/users/10840553/robin-kaltenbach
 [steam]: https://steamcommunity.com/id/nexusmeister
+[linkedIn]: https://www.linkedin.com/in/robin-kaltenbach-607445227/
