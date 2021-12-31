@@ -37,16 +37,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Nexusmeister/NexusWeb/pull/5) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-2. 🎉 Merged PR [#4](https://github.com/Nexusmeister/NexusWeb/pull/4) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-3. 💪 Opened PR [#4](https://github.com/Nexusmeister/NexusWeb/pull/4) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-4. ❗️ Reopened issue [#1](https://github.com/Nexusmeister/NexusWeb/issues/1) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-5. 🎉 Merged PR [#3](https://github.com/Nexusmeister/NexusWeb/pull/3) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-6. ❗️ Closed issue [#1](https://github.com/Nexusmeister/NexusWeb/issues/1) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-7. 💪 Opened PR [#3](https://github.com/Nexusmeister/NexusWeb/pull/3) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-8. 🎉 Merged PR [#2](https://github.com/Nexusmeister/NexusWeb/pull/2) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-9. 💪 Opened PR [#2](https://github.com/Nexusmeister/NexusWeb/pull/2) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
-10. ❗️ Opened issue [#1](https://github.com/Nexusmeister/NexusWeb/issues/1) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+1. 🎉 Merged PR [#7](https://github.com/Nexusmeister/NexusWeb/pull/7) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+2. 💪 Opened PR [#7](https://github.com/Nexusmeister/NexusWeb/pull/7) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+3. 🎉 Merged PR [#6](https://github.com/Nexusmeister/NexusWeb/pull/6) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+4. 💪 Opened PR [#6](https://github.com/Nexusmeister/NexusWeb/pull/6) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+5. 💪 Opened PR [#5](https://github.com/Nexusmeister/NexusWeb/pull/5) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+6. 🎉 Merged PR [#4](https://github.com/Nexusmeister/NexusWeb/pull/4) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+7. 💪 Opened PR [#4](https://github.com/Nexusmeister/NexusWeb/pull/4) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+8. ❗️ Reopened issue [#1](https://github.com/Nexusmeister/NexusWeb/issues/1) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+9. 🎉 Merged PR [#3](https://github.com/Nexusmeister/NexusWeb/pull/3) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+10. ❗️ Closed issue [#1](https://github.com/Nexusmeister/NexusWeb/issues/1) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
 <!--END_SECTION:activity-->
  
  <br/>
