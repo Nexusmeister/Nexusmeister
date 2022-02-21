@@ -37,16 +37,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5216](https://github.com/signalapp/Signal-iOS/issues/5216) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
-2. 🎉 Merged PR [#2](https://github.com/Nexusmeister/HomeOfficeManager/pull/2) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
-3. 💪 Opened PR [#2](https://github.com/Nexusmeister/HomeOfficeManager/pull/2) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
-4. 🎉 Merged PR [#1](https://github.com/Nexusmeister/HomeOfficeManager/pull/1) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
-5. 💪 Opened PR [#1](https://github.com/Nexusmeister/HomeOfficeManager/pull/1) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
-6. 🎉 Merged PR [#11](https://github.com/Nexusmeister/Nexusmeister/pull/11) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-7. ❗️ Closed issue [#10](https://github.com/Nexusmeister/Nexusmeister/issues/10) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-8. 💪 Opened PR [#11](https://github.com/Nexusmeister/Nexusmeister/pull/11) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-9. ❗️ Opened issue [#10](https://github.com/Nexusmeister/Nexusmeister/issues/10) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
-10. ❗️ Opened issue [#8](https://github.com/Nexusmeister/NexusWeb/issues/8) in [Nexusmeister/NexusWeb](https://github.com/Nexusmeister/NexusWeb)
+1. 🗣 Commented on [#5160](https://github.com/signalapp/Signal-iOS/issues/5160) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
+2. 🗣 Commented on [#5216](https://github.com/signalapp/Signal-iOS/issues/5216) in [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
+3. 🎉 Merged PR [#2](https://github.com/Nexusmeister/HomeOfficeManager/pull/2) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+4. 💪 Opened PR [#2](https://github.com/Nexusmeister/HomeOfficeManager/pull/2) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+5. 🎉 Merged PR [#1](https://github.com/Nexusmeister/HomeOfficeManager/pull/1) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+6. 💪 Opened PR [#1](https://github.com/Nexusmeister/HomeOfficeManager/pull/1) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+7. 🎉 Merged PR [#11](https://github.com/Nexusmeister/Nexusmeister/pull/11) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+8. ❗️ Closed issue [#10](https://github.com/Nexusmeister/Nexusmeister/issues/10) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+9. 💪 Opened PR [#11](https://github.com/Nexusmeister/Nexusmeister/pull/11) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
+10. ❗️ Opened issue [#10](https://github.com/Nexusmeister/Nexusmeister/issues/10) in [Nexusmeister/Nexusmeister](https://github.com/Nexusmeister/Nexusmeister)
 <!--END_SECTION:activity-->
  
  <br/>
