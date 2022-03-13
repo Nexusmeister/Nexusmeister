@@ -37,16 +37,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Nexusmeister/NugetCore/pull/10) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-2. 💪 Opened PR [#10](https://github.com/Nexusmeister/NugetCore/pull/10) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-3. 🎉 Merged PR [#9](https://github.com/Nexusmeister/NugetCore/pull/9) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-4. 💪 Opened PR [#9](https://github.com/Nexusmeister/NugetCore/pull/9) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-5. 🎉 Merged PR [#8](https://github.com/Nexusmeister/NugetCore/pull/8) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-6. 💪 Opened PR [#8](https://github.com/Nexusmeister/NugetCore/pull/8) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-7. 🎉 Merged PR [#7](https://github.com/Nexusmeister/NugetCore/pull/7) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-8. 💪 Opened PR [#7](https://github.com/Nexusmeister/NugetCore/pull/7) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-9. 🎉 Merged PR [#6](https://github.com/Nexusmeister/NugetCore/pull/6) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-10. 💪 Opened PR [#6](https://github.com/Nexusmeister/NugetCore/pull/6) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+1. ❗️ Opened issue [#13](https://github.com/Nexusmeister/NugetCore/issues/13) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+2. 🗣 Commented on [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+3. ❗️ Closed issue [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+4. 🎉 Merged PR [#12](https://github.com/Nexusmeister/NugetCore/pull/12) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+5. 💪 Opened PR [#12](https://github.com/Nexusmeister/NugetCore/pull/12) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+6. 🎉 Merged PR [#11](https://github.com/Nexusmeister/NugetCore/pull/11) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+7. 💪 Opened PR [#11](https://github.com/Nexusmeister/NugetCore/pull/11) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+8. 🎉 Merged PR [#10](https://github.com/Nexusmeister/NugetCore/pull/10) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+9. 💪 Opened PR [#10](https://github.com/Nexusmeister/NugetCore/pull/10) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+10. 🎉 Merged PR [#9](https://github.com/Nexusmeister/NugetCore/pull/9) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
 <!--END_SECTION:activity-->
  
  <br/>
