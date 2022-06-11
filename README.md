@@ -37,16 +37,16 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/urwrstkn8mare/galaxy-riot-integration/issues/25) in [urwrstkn8mare/galaxy-riot-integration](https://github.com/urwrstkn8mare/galaxy-riot-integration)
-2. 🗣 Commented on [#4661](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/4661) in [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-3. 🗣 Commented on [#4661](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/4661) in [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-4. ❗️ Opened issue [#25](https://github.com/urwrstkn8mare/galaxy-riot-integration/issues/25) in [urwrstkn8mare/galaxy-riot-integration](https://github.com/urwrstkn8mare/galaxy-riot-integration)
-5. 🗣 Commented on [#1632](https://github.com/signalapp/Signal-Desktop/issues/1632) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-6. ❗️ Opened issue [#13](https://github.com/Nexusmeister/NugetCore/issues/13) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-7. 🗣 Commented on [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-8. ❗️ Closed issue [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-9. 🎉 Merged PR [#12](https://github.com/Nexusmeister/NugetCore/pull/12) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
-10. 💪 Opened PR [#12](https://github.com/Nexusmeister/NugetCore/pull/12) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+1. 🎉 Merged PR [#3](https://github.com/Nexusmeister/HomeOfficeManager/pull/3) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+2. 💪 Opened PR [#3](https://github.com/Nexusmeister/HomeOfficeManager/pull/3) in [Nexusmeister/HomeOfficeManager](https://github.com/Nexusmeister/HomeOfficeManager)
+3. 🗣 Commented on [#25](https://github.com/urwrstkn8mare/galaxy-riot-integration/issues/25) in [urwrstkn8mare/galaxy-riot-integration](https://github.com/urwrstkn8mare/galaxy-riot-integration)
+4. 🗣 Commented on [#4661](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/4661) in [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+5. 🗣 Commented on [#4661](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/4661) in [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+6. ❗️ Opened issue [#25](https://github.com/urwrstkn8mare/galaxy-riot-integration/issues/25) in [urwrstkn8mare/galaxy-riot-integration](https://github.com/urwrstkn8mare/galaxy-riot-integration)
+7. 🗣 Commented on [#1632](https://github.com/signalapp/Signal-Desktop/issues/1632) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+8. ❗️ Opened issue [#13](https://github.com/Nexusmeister/NugetCore/issues/13) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+9. 🗣 Commented on [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
+10. ❗️ Closed issue [#1](https://github.com/Nexusmeister/NugetCore/issues/1) in [Nexusmeister/NugetCore](https://github.com/Nexusmeister/NugetCore)
 <!--END_SECTION:activity-->
  
  <br/>
