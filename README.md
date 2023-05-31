@@ -8,6 +8,21 @@
 
 
 ## Welcome!
+Hey! I'm a .NET Software Developer who is mainly developing Full Stack Desktop Applications.
+At the same time I try to look into other topics aswell. Feel free to look into all my repos. 
+I am also up for contributing in other projects. Hit me up if you got some interesting ideas!
+
+Main Topics:
+- Windows Forms
+- WPF Applications
+- ASP.NET Core WebAPI
+- SQL Server (yes even there we develop business logic, don't ask 🥲)
+
+Stuff that I look into:
+- Blazor Webapplications
+- ASP.NET Core WebAPI
+- gRPC
+
 
 ### Connect with me:
 [<img align="left" alt="Nexusmeister | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,6 +46,8 @@
 <img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" />
 <img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" />
 <img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xamarin.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" />
+<img width="35px" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windowsterminal.svg" />
 
 <br/>
 <br/>
