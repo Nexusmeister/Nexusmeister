@@ -22,6 +22,9 @@ Stuff that I look into:
 - Blazor Webapplications
 - ASP.NET Core WebAPI
 - gRPC
+- Eventbus
+- NoSQL (MongoDB)
+- Azure
 
 
 ### Connect with me:
